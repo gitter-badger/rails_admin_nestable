@@ -1,4 +1,5 @@
 # Rails Admin Nestable
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/dalpo/rails_admin_nestable?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 RailsAdmin Drag and drop tree view for Ancestry gem
 
